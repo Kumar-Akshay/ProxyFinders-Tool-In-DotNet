@@ -1,3 +1,2 @@
 # ProxyFinder-Tool-In-.NET
-![Alt text](1.jpg?raw=true "First")
-![Alt text](2.jpg?raw=true "Second")
+![First](https://github.com/Kumar-Akshay/ProxyFinder-Tool-In-.NET/1.png)
